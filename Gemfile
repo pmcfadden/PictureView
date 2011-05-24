@@ -7,7 +7,6 @@ gem 'rails', '3.0.7'
 
 gem 'sqlite3'
 gem 'haml'
-gem 'jammit', '0.6.0'
 gem 'rake', '0.8.7'
 
 
