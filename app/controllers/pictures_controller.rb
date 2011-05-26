@@ -1,4 +1,4 @@
-class PicturesController < ActionController::Base
+class PicturesController < ApplicationController
 
   def new
   end
